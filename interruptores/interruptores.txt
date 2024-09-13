@@ -1,0 +1,24 @@
+Assumindo que todas as lâmpadas estejam apagas
+Supodondo que as salas são: A, B, C
+Os interruptores são: 1, 2, 3
+
+Ascenderia os interruptores 1 e 2
+e depois de uns minutos desligaria o interruptor 2
+Após isso eu entro na sala A 
+
+Se a lâmpada estiver ligada, então o interruptor da sala A é o 1
+Se a lâmpada estiver quente, então o interruptor da sala A é o 2
+Se a lâmpada estiver fria, então o interruptor da sala A é o 3
+
+depois vou para a sala B, e verifico a lâmpada
+
+Se a lâmpada estiver ligada, então o interruptor da sala B é o 1
+Se a lâmpada estiver quente, então o interruptor da sala B é o 2
+Se a lâmpada estiver fria, então o interruptor da sala B é o 3
+
+Após ter a confirmação do estado das duas lampadas, por exemplo, a da Sala A estando com a lâmpada ligada e a da Sala B estando com a lâmpada fria
+consigo descobrir qual o interruptor da lâmpada da sala C, que nessa situação seria o interruptor 2
+
+
+
+
